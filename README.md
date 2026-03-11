@@ -1,7 +1,9 @@
 # PULSE
 
 This repository contains the implementation of **PULSE**, a pipeline for Wi-Fi CSI-based sensing using temporal feature learning.
-
+<p align="center">
+  <img src="FRAMEWORK.png" width="700">
+</p>
 
 # Repository Structure
 
